@@ -1,0 +1,12 @@
+ul{
+    list-style-type: none;
+    
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+
+li:nth-child(5) { 
+    width:25%;
+    text-align: justify;
+}
